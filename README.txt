@@ -1,0 +1,1 @@
+Connect your ideal LED+ smart fairy lights to Homey. When controlling the device for the first time since a restart, it may take a while to connect to the device. Note that the connection is stateless, which means that any status changes made from the ideal LED+ mobile app or the remote control won't get reflected in Homey.
